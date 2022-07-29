@@ -1,1 +1,1 @@
-# Tiktodz.github.io
+https://saweria.co/overlays/alert?streamKey=d4f4a81d773c4eb266626a4be3faeeb3&template=baru+saja+memberikan&backgroundColor=%23faae2b&highlightColor=%23744fc9&color=%23333333&fontWeight=500&notificationTimeout=5000
